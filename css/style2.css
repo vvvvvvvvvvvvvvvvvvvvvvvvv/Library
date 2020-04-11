@@ -1,0 +1,15 @@
+#chat {
+	border: 3px solid #0ff;
+	height: 300px;
+	margin: 10px  100px 100 ;
+	overflow-x: none;
+	overflow-y: auto;
+	width: 250px;
+}
+#chat {
+
+}
+#bookimage {
+	
+	height: 200px; width: 150px; margin: 10px; position:absolute;
+}
